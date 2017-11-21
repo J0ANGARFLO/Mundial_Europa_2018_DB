@@ -19,7 +19,7 @@ create table Fases(
 	cod_fase smallint,
 	nomb_fase varchar (50) not null,
 	
-	primary key(cod_fase)
+	CONSTRAINT PK_Fases PRIMARY KEY(cod_fase)
 );
 
 /**
@@ -29,7 +29,7 @@ create table Grupos(
 	cod_grupo smallint,
 	nomb_grupo varchar (50) not null,
 	
-	primary key(cod_grupo)
+	CONSTRAINT PK_Grupos PRIMARY KEY(cod_grupo)
 );
 
 /**
@@ -39,7 +39,7 @@ create table Confederaciones(
 	cod_confe smallint,
 	nombre_confe varchar (50) not null,
 	
-	primary key(cod_confe)
+	CONSTRAINT PK_Confederacion PRIMARY KEY(cod_confe)
 );
 
 /**
@@ -49,7 +49,7 @@ create table Pais(
 	cod_pais varchar(3),
 	nomb_pais varchar (50) not null,
 	
-	primary key(cod_pais)
+	CONSTRAINT PK_Pais PRIMARY KEY(cod_pais)
 );
 
 /**
@@ -59,7 +59,7 @@ create table TipoIncidencia(
 	cod_incidencia smallint,
 	nom_incidencia varchar (50) not null,
 	
-	primary key(cod_incidencia)
+	CONSTRAINT PK_TipoIncidencia PRIMARY KEY(cod_incidencia)
 );
 
 /**
@@ -70,9 +70,10 @@ create table Ciudades(
 	nomb_ciudad varchar (50) not null,
 	cod_pais varchar(3) not null,
 	
-	foreign key (cod_pais) references Pais (cod_pais),
-	primary key(cod_ciudad)
+	CONSTRAINT PK_Ciudades_Pais FOREIGN KEY (cod_pais) REFERENCES Pais (cod_pais),
+	CONSTRAINT PK_Ciudades PRIMARY KEY(cod_ciudad)
 );
+CREATE INDEX IXFK_Ciudades_Pais ON Ciudades(cod_pais);
 
 /**
 Creación de la tabla de los torneos
@@ -82,6 +83,7 @@ create table Torneos(
 	cod_pais_anfitrion varchar (3) not null,
 	nom_torneo varchar(50) not null,
 	
-	foreign key (cod_pais_anfitrion) references Pais (cod_pais),
-	primary key(anio)
+	CONSTRAINT PK_Mundiales_Pais FOREIGN KEY (cod_pais_anfitrion) REFERENCES Pais (cod_pais),
+	PRIMARY KEY(anio)
 );
+CREATE INDEX IXFK_Mundiales_Pais ON Torneos(cod_pais_anfitrion);
