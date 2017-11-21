@@ -4,6 +4,8 @@
 */
 
 -- Eliminacion de tablas en caso de que existan
+DROP TABLE IF EXISTS Incidencias;
+DROP TABLE IF EXISTS Enfrentamiento;
 DROP TABLE IF EXISTS Jugadores;
 DROP TABLE IF EXISTS Dirige;
 DROP TABLE IF EXISTS Participantes;
@@ -209,3 +211,51 @@ create table Jugadores(
 CREATE INDEX IXFK_Jugadores_Equipos ON Jugadores(cod_equipo);
 CREATE INDEX IXFK_Jugadores_Personas ON Jugadores(cod_persona);
 CREATE INDEX IXFK_Jugadores_Pais ON Jugadores(cod_pais);
+
+/**
+Creación de la tabla de los enfrentamientos o partidos entre equipos
+*/
+create table Enfrentamiento(
+	cod_equipo_local varchar(4) not null,
+	cod_equipo_visita varchar(4) not null,
+	fecha_enfrentamiento date not null,
+	cod_arbitro decimal(12) not null,
+	estadio varchar (50) not null,
+	cod_fase smallint not null,
+	cod_grupo smallint not null,
+	
+	CONSTRAINT FK_Enfrentamiento_ArbitroPita FOREIGN KEY (cod_arbitro) REFERENCES Arbitros (cod_arbitro),
+	CONSTRAINT FK_Enfrentamiento_Equipos FOREIGN KEY (cod_equipo_local) REFERENCES Equipos (cod_equipo),
+	CONSTRAINT FK_Enfrentamiento_Equipos_Visita FOREIGN KEY (cod_equipo_visita) REFERENCES Equipos (cod_equipo),
+	CONSTRAINT FK_Enfrentamiento_Fases FOREIGN KEY (cod_fase) REFERENCES Fases (cod_fase),
+	CONSTRAINT FK_Enfrentamiento_Grupos FOREIGN KEY (cod_grupo) REFERENCES Grupos (cod_grupo),
+	CONSTRAINT PK_Enfrentamiento PRIMARY KEY(cod_equipo_local,cod_equipo_visita,fecha_enfrentamiento)
+);
+CREATE INDEX IXFK_Enfrentamiento_Arbitro ON Enfrentamiento(cod_arbitro);
+CREATE INDEX IXFK_Enfrentamiento_Equipos ON Enfrentamiento(cod_equipo_local);
+CREATE INDEX IXFK_Enfrentamiento_Equipos_02 ON Enfrentamiento(cod_equipo_visita);
+CREATE INDEX IXFK_Enfrentamiento_Fases ON Enfrentamiento(cod_fase);
+CREATE INDEX IXFK_Enfrentamiento_Grupos ON Enfrentamiento(cod_grupo);
+
+/**
+Creación de la tabla de las incidencias o faltas en un partido
+*/
+create table Incidencias(
+	cod_equipo_local varchar(4) not null,
+	cod_jugador decimal(12) not null,
+	cod_equipo_visita varchar(4) not null,
+	tipo_incidencia smallint not null,
+	minuto integer not null,
+	fecha_enfrenta date not null,
+	
+	CONSTRAINT FK_Incidencias_Enfrentamiento FOREIGN KEY (cod_equipo_local,cod_equipo_visita,fecha_enfrenta) REFERENCES Enfrentamiento (cod_equipo_local,cod_equipo_visita,fecha_enfrentamiento),
+	CONSTRAINT FK_Incidencias_Jugadores FOREIGN KEY (cod_jugador) REFERENCES Jugadores (cod_jugador),
+	CONSTRAINT FK_Incidencias_TipoIncidencia FOREIGN KEY (tipo_incidencia) REFERENCES TipoIncidencia (cod_incidencia),
+	CONSTRAINT PK_Incidencias PRIMARY KEY(cod_equipo_local,cod_jugador,cod_equipo_visita,tipo_incidencia,fecha_enfrenta)
+);
+CREATE INDEX IXFK_Incidencias_Enfrentamiento ON Incidencias(cod_equipo_local,cod_equipo_visita);
+CREATE INDEX IXFK_Incidencias_Enfrentamiento_02 ON Incidencias(cod_equipo_local,cod_equipo_visita,fecha_enfrenta);
+CREATE INDEX IXFK_Incidencias_Jugadores ON Incidencias(cod_jugador);
+CREATE INDEX IXFK_Incidencias_Plantilla ON Incidencias(cod_equipo_local,cod_jugador);
+CREATE INDEX IXFK_Incidencias_Plantilla_02 ON Incidencias(cod_equipo_visita,cod_jugador);
+CREATE INDEX IXFK_Incidencias_TipoIncidencia ON Incidencias(tipo_incidencia);
