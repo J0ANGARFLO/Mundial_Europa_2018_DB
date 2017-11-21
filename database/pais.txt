@@ -1,0 +1,73 @@
+create table Pais(
+ cod_pais varchar(3),
+ nomb_pais varchar (50) not null,
+ primary key(cod_pais)
+ );
+ 
+ 
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('ALB','Albania');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('AND','Andorra');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('ARM','Armenia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('AUT','Austria');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('AZE','Azerbaiyan');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('BEL','Belgica');
+
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('BIH','Bosnia y Herzegovina');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('BLR','Bielorrusia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('BUL','Bulgaria');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('CRO','Croacia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('CYP','Chipre');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('CZE','Republica Checa');
+
+
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('DEN','Dinamarca');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('ENG','Inglaterra');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('ESP','España');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('EST','Estonia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('FIN','Finlandia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('FRA','Francia');
+
+
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('FRO','Isla Feroe');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('GEO','Georgia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('GER','Alemania');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('GIB','Gibraltar');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('GRE','Grecia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('HUN','Hungria');
+
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('IRL','Republica de Irlanda');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('ISL','Islandia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('ISR','Israel');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('ITA','Italia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('KAZ','Kazajstán');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('KVX','Kosovo');
+
+
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('LIE','Liechtenstein');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('LTU','Lituania');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('LUX','Luxenburgo');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('LVA','Letonia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('MDA','Moldavia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('MKD','ARY de Macedonia');
+
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('MLT','Malta');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('MNE','Montenegro');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('NED','Paises Bajos');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('NIR','Irlanda del Norte');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('NOR','Noruega');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('POL','Polonia');
+
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('POR','Portugal');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('ROU','Rumania');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('SCO','Escocia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('SMR','San Marino');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('SRB','Serbia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('SUI','Suiza');
+
+
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('SVK','Eslovaquia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('SVN','Eslovenia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('SWE','Suecia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('TUR','Turquia');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('UKR','Ucrania');
+INSERT INTO Pais (cod_pais, nomb_pais) VALUES ('WAL','Gales');
