@@ -4,6 +4,7 @@
 */
 
 -- Eliminacion de tablas en caso de que existan
+DROP TABLE IF EXISTS Torneos;
 DROP TABLE IF EXISTS Ciudades;
 DROP TABLE IF EXISTS Fases;
 DROP TABLE IF EXISTS Grupos;
@@ -65,10 +66,22 @@ create table TipoIncidencia(
 Creación de la tabla de las ciudades de los paises
 */
 create table Ciudades(
-	cod_ciudad smallint,
+	cod_ciudad varchar(5),
 	nomb_ciudad varchar (50) not null,
-	cod_pais varchar(3),
+	cod_pais varchar(3) not null,
 	
 	foreign key (cod_pais) references Pais (cod_pais),
 	primary key(cod_ciudad)
+);
+
+/**
+Creación de la tabla de los torneos
+*/
+create table Torneos(
+	anio smallint,
+	cod_pais_anfitrion varchar (3) not null,
+	nom_torneo varchar(50) not null,
+	
+	foreign key (cod_pais_anfitrion) references Pais (cod_pais),
+	primary key(anio)
 );
