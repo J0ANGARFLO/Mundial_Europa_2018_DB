@@ -261,7 +261,30 @@ INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) V
 INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Quincy','PROMES','NED','4/01/1992'); 
 
 -- Irlanda del Norte
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NIR','7/02/1986'); 
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Roy','CARROLL','NIR','30/09/1977');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Aaron','Hughes','NIR','8/11/1979');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Alan','MANNUS','NIR','19/05/1982');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Steven','DAVIS','NIR','1/01/1985');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Michael','McGOVERN','NIR','12/07/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Chris','BRUNT','NIR','14/12/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Gareth','McAuley','NIR','5/12/1979');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Kyle','Lafferty','NIR','16/09/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Jonny','EVANS','NIR','3/01/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Jamie','WARD','NIR','12/05/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Niall','MCGINN','NIR','20/07/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ryan','McGIVERN','NIR','8/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Corry','EVANS','NIR','30/07/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','William','GRIGG','NIR','3/06/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Oliver','NORWOOD','NIR','12/04/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Rory','McARDLE','NIR','1/05/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Lee','HODSON','NIR','2/10/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Craig','CATHCART','NIR','6/02/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Shane','FERGUSON','NIR','12/07/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Trevor','CARSON','NIR','5/03/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ryan','McLAUGHLIN','NIR','30/09/1994');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','George','SAVILLE','NIR','1/06/1993');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Daniel','LAFFERTY','NIR','18/05/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Josh','Magennis','NIR','15/08/1990');
 
 -- Noruega
 INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986'); 
@@ -334,4 +357,3 @@ INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) V
 INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','WAL','7/02/1986'); 
 
 -- http://es.fifa.com/worldcup/preliminaries/europe/road-to-russia.html
--- http://es.fifa.com/worldcup/teams/team=44002/players.html
