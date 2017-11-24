@@ -287,7 +287,28 @@ INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) V
 INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Josh','Magennis','NIR','15/08/1990');
 
 -- Noruega
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986'); 
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Rune ','ALMENNING JARSTEIN','NOR','29/09/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Tarik ','Elyounoussi','NOR','23/02/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Tore ','REGINIUSSEN','NOR','10/04/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Per ','CILJAN SKJELBRED','NOR','16/06/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','NOR','7/02/1986');
 
 -- Polonia
 INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','POL','7/02/1986'); 
