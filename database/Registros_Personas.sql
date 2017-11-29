@@ -362,19 +362,116 @@ INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) V
 INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ricardo','Quaresma','POR','26/09/1983'); 
 
 -- Rumania
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','ROU','7/02/1986'); 
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Costel','Pantilimon','ROU','1/02/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ciprian','Tatarusanu','ROU','9/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Silviu','Lung Junior','ROU','4/06/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Romario','Benzar','ROU','26/03/1992');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Cosmin','Moti','ROU','3/12/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Vlad','Chiriches','ROU','14/11/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Iasmin','Latovlevici','ROU','11/05/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Alin','Tosca','ROU','14/03/1992');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Dragos','Grigore','ROU','7/09/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Cristian','Sapunaru','ROU','5/04/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Alexandru','Chipciu','ROU','18/05/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Adrian','Popa','ROU','24/07/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolae','Stanciu','ROU','7/05/1993');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Alexandru','Maxim','ROU','8/07/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Andrei','Prepelita','ROU','8/12/1985');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Razvan','Marin','ROU','23/05/1996');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Florin','Andone','ROU','11/04/1993');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Claudiu','Keseru','ROU','2/12/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Bogdan','Stancu','ROU','28/06/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Denis','Alibec','ROU','5/01/1991');
 
 -- Escocia
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','SCO','7/02/1986'); 
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Craig','Gordon','SCO','31/12/1982');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Kieran','Tierney','SCO','5/06/1997');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Andrew','Robertson','SCO','11/03/1994');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Christophe','Berra','SCO','31/01/1985');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Charles','Mulgrew','SCO','6/03/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','James','Morrison','SCO','25/05/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Stuart','Armstrong','SCO','30/03/1992');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Scott','Brown','SCO','25/06/1985');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Leigh','Griffiths','SCO','20/08/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Robert','Snodgrass','SCO','7/09/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ikechi','Anya','SCO','3/01/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','David','Marshall','SCO','5/03/1985');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','James','McArthur','SCO','7/10/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Steven','Naismith','SCO','14/09/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Barry','Bannan','SCO','1/12/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Darren','Fletcher','SCO','1/02/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','James','Forrest','SCO','7/07/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Russell','Martin','SCO','4/01/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Chris','Martin','SCO','4/11/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ryan','Fraser','SCO','4/02/1994');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Tom','Cairney','SCO','20/01/1991');
 
 -- San Marino
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','SMR','7/02/1986'); 
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Aldo','Simoncini','SMR','30/08/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Danilo','Rinaldi','SMR','18/04/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Adolfo','Hirsch','SMR','31/01/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Giacomo','Muraccini','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Elia','Benedettini','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Davide','Cesarini','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Andrea','Grandoni','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Michele','Cevoli','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Fabio','Vitaioli','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Alessandro','Della Valle','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Cristian','Brolli','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Alex','Gasperoni','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Michael','Battistini','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Maicol','Berretti','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Alessandro','Golinucci','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Michele','Cervellini','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Luca','Tosi','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Mattia','Stefanelli','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Fabio','Tomassini','SMR','1/01/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Marco','Bernardi','SMR','1/01/1990');
 
 -- Serbia
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','SRB','7/02/1986'); 
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Vladimir','Stojkovic','SRB','28/07/1983');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ivan','Obradovic','SRB','25/07/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nenad','Tomovic','SRB','30/08/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nemanja','Gudelj','SRB','16/11/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Branislav','Ivanovic','SRB','11/02/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Zoran','Tosic','SRB','28/04/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Radosav','Petrovic','SRB','8/03/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Aleksandar','Mitrovic','SRB','16/09/1994');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Dusan','Tadic','SRB','20/11/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Aleksandar','Kolarov','SRB','10/11/1985');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nemanja','Matic','SRB','1/08/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Darko','Brasanac','SRB','12/02/1992');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Luka','Milivojević','SRB','7/04/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Filip','Kostic','SRB','1/11/1992');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Andrija','Zivkovic','SRB','11/07/1996');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ljubomir','Fejsa','SRB','14/08/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Bojan','Krkic','SRB','28/08/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Adem','Ljajic','SRB','29/09/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Lazar','Markovic','SRB','2/03/1994');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Zeljko','Brkic','SRB','9/07/1986');
 
 -- Suiza
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','SUI','7/02/1986'); 
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Yann','Sommer','SUI','17/12/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Marwin','Hitz','SUI','18/09/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Roman','Burki','SUI','14/11/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Stephan','Lichtsteiner','SUI','16/01/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Fabian','Schar','SUI','20/12/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Timm','Klose','SUI','9/05/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nico','Elvedi','SUI','30/09/1996');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Renato','Steffen','SUI','3/11/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Blerim','Dzemaili','SUI','12/04/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Gelson','Fernandes','SUI','2/09/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Denis','Zakaria','SUI','20/11/1996');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Xherdan','Shaqiri','SUI','10/10/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Reto','Ziegler','SUI','16/01/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Granit','Xhaka','SUI','27/09/1992');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Edimilson','Fernandes','SUI','15/04/1996');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Shani','Tarashaj','SUI','7/02/1995');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Breel','Embolo','SUI','14/02/1997');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Valentin','Stocker','SUI','12/04/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Admir','Mehmedi','SUI','16/03/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Eren','Derdiyok','SUI','12/06/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Haris','Seferovic','SUI','22/02/1992');
 
 -- Eslovaquia
 INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Marek','BAKOS','SVK','15/04/1983'); 
@@ -393,7 +490,20 @@ INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) V
 INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Lukas','PAUSCHEK','SVK','9/12/1992');
 
 -- Eslovenia
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','SVN','7/02/1986'); 
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Jan','Oblak','SVN','7/01/1993');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nejc','Skubic','SVN','13/06/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Bostjan','Cesar','SVN','9/07/1982');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Branko','Ilic','SVN','6/02/1983');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Josip','Ilicic','SVN','29/01/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Jasmin','Kurtic','SVN','10/01/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Zlatan','Ljubijankic','SVN','15/12/1983');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Valter','Birsa','SVN','7/08/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Milivoje','Novakovic','SVN','18/05/1979');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Bojan','Jokic','SVN','17/05/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Andraz','Kirm','SVN','6/09/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nejc','Pecnik','SVN','3/01/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Kevin','Kampl','SVN','9/10/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Rene','Krhin','SVN','21/05/1990');
 
 -- Suecia
 INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Andreas','GRANQVIST','SWE','16/04/1985'); 
@@ -414,12 +524,62 @@ INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) V
 INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ken','SEMA','SWE','30/09/1993'); 
 
 -- Turquia
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','TUR','7/02/1986'); 
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Volkan','Babacan','TUR','11/08/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Atila','Turan','TUR','10/04/1992');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','İsmail','Koybasi','TUR','10/07/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Serdar','Aziz','TUR','23/10/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Okay','Yokuslu','TUR','9/03/1994');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ozan','Tufan','TUR','23/03/1995');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Selcuk','Inan','TUR','10/02/1985');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Cenk','Tosun','TUR','7/06/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Hakan','Calhanoglu','TUR','8/02/1994');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Oguzhan','Ozyakup','TUR','23/09/1992');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Enes','Unal','TUR','10/05/1997');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Yunus','Malli','TUR','24/02/1992');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Çaglar','Soyuncu','TUR','23/03/1996'); 
 
 -- Ucrania
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','UKR','7/02/1986'); 
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Denys','Boyko','UKR','29/01/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Mykola','Morozyuk','UKR','17/01/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Yevhen','Jacheridi','UKR','28/07/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Anatoliy','Timoshchuk','UKR','30/03/1979');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Oleksandr','Kucher','UKR','22/10/1982');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Taras','Stepanenko','UKR','8/08/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Andriy','Yarmolenko','UKR','23/10/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Román','Zozulia','UKR','17/11/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Viktor','Kovalenko','UKR','14/02/1996');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Yevhen','Konoplyanka','UKR','29/09/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Yevhen','Seleznyov','UKR','20/07/1985');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Andriy','Pyatov','UKR','28/06/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Viacheslav','Shevchuk','UKR','13/05/1979');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ruslan','Rotan','UKR','29/10/1981');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Dmitro','Chigrinskiy','UKR','7/11/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Serhiy','Sydorchuk','UKR','2/05/1991');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Artem','Fedetskiy','UKR','26/04/1985');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Denís','Garmash','UKR','19/04/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Yaroslav','Rakitski','UKR','3/08/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Oleksandr','Zinchenko','UKR','15/12/1996');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Vladlen','Yurchenko','UKR','22/01/1994');
 
 -- Gales
-INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Nicolo','BARELLA','WAL','7/02/1986'); 
-
--- http://es.fifa.com/worldcup/preliminaries/europe/road-to-russia.html
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Wayne','Hennessey','WAL','24/01/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Owain','Williams','WAL','17/03/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ashley','Williams','WAL','23/08/1984');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','James','Chester','WAL','23/01/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','James','Collins','WAL','23/08/1983');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Ben','Davies','WAL','24/04/1983');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Neil','Taylor','WAL','7/02/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Chris','Gunter','WAL','21/06/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Andy','King','WAL','29/10/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Aaron','Ramsey','WAL','26/12/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Joe','Allen','WAL','14/03/1990');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Joe','Ledley','WAL','23/01/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Jonny','Williams','WAL','9/10/1993');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','David','Vaughan','WAL','18/02/1983');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','David','Edwards','WAL','3/02/1986');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','David','Cotterill','WAL','4/12/1987');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Gareth','Bale','WAL','16/07/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Sam','Vokes','WAL','21/10/1989');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Simon','Church','WAL','10/12/1988');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','George','Williams','WAL','7/09/1995');
+INSERT INTO Personas (cod_persona, nom_persona, ape_persona, cod_pais, f_nac ) VALUES ('60001','Hal','Robson','WAL','21/05/1989');
