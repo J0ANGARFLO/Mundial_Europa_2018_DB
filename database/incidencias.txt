@@ -1,0 +1,854 @@
+--grupo C
+--0-1
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','05','7','10','09/04/2016');
+--0-0                                                                                                                                        
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','40','7','12','09/04/2016');
+--0-3                                                                                                                                        
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','21','7','14','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','21','7','15','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','21','7','16','09/04/2016');
+--1-0                                                                                                                                        
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','41','7','18','10/08/2016');
+--3-0                                                                                                                                        
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','12','7','20','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','12','7','21','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','12','7','22','10/08/2016');
+--4-0                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','46','7','24','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','46','7','25','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','46','7','26','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','46','7','27','10/08/2016');
+--0-0                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','05','7','29','10/11/2016');
+--2-0                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','40','7','31','10/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','40','7','32','10/11/2016');
+--4-1                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','46','7','34','10/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','46','7','35','10/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','46','7','36','10/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','46','7','37','10/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','46','7','38','10/11/2016');
+--2-1                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','41','7','40','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','41','7','41','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','41','7','42','11/11/2016');
+--4-0                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','05','7','44','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','05','7','45','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','05','7','46','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','05','7','47','11/11/2016');
+--0-8                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','21','7','49','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','21','7','50','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','21','7','51','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','21','7','52','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','21','7','53','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','21','7','54','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','21','7','55','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','21','7','56','11/11/2016');
+--1-4                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','21','7','58','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','21','7','59','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','21','7','60','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','21','7','61','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','21','7','62','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','21','7','63','03/26/2017');
+--0-6                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','12','7','65','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','12','7','66','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','12','7','67','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','12','7','68','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','12','7','69','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','12','7','70','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','12','7','71','03/26/2017');
+--2-0                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','41','7','73','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','41','7','74','03/26/2017');
+--0-1                                                                                                                                         
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','40','7','76','06/10/2017');
+7-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','46','7','78','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','46','7','79','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','46','7','80','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','46','7','81','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','46','7','82','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','46','7','83','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','46','7','84','06/10/2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','12','7','86','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','12','7','87','06/10/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','21','7','89','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','21','7','90','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','21','7','10','09/01/2017');
+2-0                                                                                                                                           11
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','05','7','12','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','05','7','13','09/01/2017');
+0-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','40','7','15','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','40','7','16','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','40','7','17','09/01/2017');
+5-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','46','7','19','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','46','7','20','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','46','7','21','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','46','7','22','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','46','7','23','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','46','7','24','09/04/2017');
+6-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','41','7','26','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','41','7','27','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','41','7','28','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','41','7','29','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','41','7','30','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','41','7','31','09/04/2017');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','12','7','33','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','12','7','34','09/04/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','12','7','36','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','12','7','37','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('05','','12','7','38','10/05/2017');
+1-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','21','7','40','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','21','7','41','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','21','7','42','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('40','','21','7','43','10/05/2017');
+0-8                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','41','7','45','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','41','7','46','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','41','7','47','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','41','7','48','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','41','7','49','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','41','7','50','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','41','7','51','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('46','','41','7','52','10/05/2017');
+5-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','46','7','54','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','46','7','55','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','46','7','56','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','46','7','57','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('12','','46','7','58','10/08/2017');
+5-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','05','7','60','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','05','7','61','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','05','7','62','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','05','7','63','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','05','7','64','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('21','','05','7','65','10/08/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('41','','40','7','67','10/08/2017');
+                                                                                                                                              
+-- grupo D                                                                                                                                    
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','04','7','71','09.05.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','04','7','72','09.05.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','04','7','73','09.05.2016');
+4-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('54','','35','7','75','09.05.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('54','','35','7','76','09.05.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('54','','35','7','77','09.05.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('54','','35','7','78','09.05.2016');
+2-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','25','7','80','09.05.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','25','7','81','09.05.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','25','7','82','09.05.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','25','7','83','09.05.2016');
+0-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','47','7','85','10.06.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','47','7','86','10.06.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','47','7','87','10.06.2016');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('25','','20','7','89','10.06.2016');
+2-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','54','7','10','10.06.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','54','7','11','10.06.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','54','7','12','10.06.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','54','7','13','10.06.2016');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('54','','20','7','15','10.09.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('54','','20','7','16','10.09.2016');
+1-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','25','7','18','10.09.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','25','7','19','10.09.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','25','7','20','10.09.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','25','7','21','10.09.2016');
+3-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','04','7','23','10.09.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','04','7','24','10.09.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','04','7','25','10.09.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','04','7','26','10.09.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','04','7','27','10.09.2016');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','25','7','29','11.12.2016');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','35','7','31','11.12.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','35','7','32','11.12.2016');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('54','','47','7','34','11.12.2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('54','','47','7','35','11.12.2016');
+1-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','47','7','37','03.24.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','47','7','38','03.24.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','47','7','39','03.24.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','47','7','40','03.24.2017');
+0-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('25','','54','7','42','03.24.2017');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','35','7','44','03.24.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','35','7','45','03.24.2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('25','','04','7','47','06.11.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('25','','04','7','48','06.11.2017');
+2-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','20','7','50','06.11.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','20','7','51','06.11.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','20','7','52','06.11.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','20','7','53','06.11.2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','54','7','55','06.11.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','54','7','56','06.11.2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','25','7','58','09.02.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','25','7','59','09.02.2017');
+3-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','35','7','61','09.02.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','35','7','62','09.02.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','35','7','63','09.02.2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('54','','04','7','65','09.02.2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','20','7','67','09.05.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','20','7','68','09.05.2017');
+0-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','54','7','70','09.05.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','54','7','71','09.05.2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('25','','47','7','73','09.05.2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('20','','54','7','75','10.06.2017');
+3-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','47','7','77','10.06.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','47','7','78','10.06.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','47','7','79','10.06.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','47','7','80','10.06.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('04','','47','7','81','10.06.2017');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('25','','35','7','83','10.06.2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('25','','35','7','84','10.06.2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('35','','04','7','86','10.09.2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('47','','20','7','88','10.09.2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('54','','25','7','90','10.09.2017');
+                                                                                                                                              
+--grupo E                                                                                                                                     
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','03','7','13','09/04/2016');
+2-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','42','7','15','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','42','7','16','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','42','7','17','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','42','7','18','09/04/2016');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','38','7','20','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','38','7','21','09/04/2016');
+0-5                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','44','7','23','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','44','7','24','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','44','7','25','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','44','7','26','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','44','7','27','10/08/2016');
+5-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','29','7','29','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','29','7','30','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','29','7','31','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','29','7','32','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','29','7','33','10/08/2016');
+3-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','13','7','35','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','13','7','36','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','13','7','37','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','13','7','38','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','13','7','39','10/08/2016');
+0-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','44','7','41','10/11/2016');
+2-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','03','7','43','10/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','03','7','44','10/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','03','7','45','10/11/2016');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','38','7','47','10/11/2016');
+3-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','38','7','49','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','38','7','50','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','38','7','51','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','38','7','52','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','38','7','53','11/11/2016');
+4-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','29','7','55','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','29','7','56','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','29','7','57','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','29','7','58','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','29','7','59','11/11/2016');
+0-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','42','7','61','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','42','7','62','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','42','7','63','11/11/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','29','7','65','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','29','7','66','03/26/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','42','7','68','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','42','7','69','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','42','7','70','03/26/2017');
+0-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','13','7','72','03/26/2017');
+1-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','13','7','74','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','13','7','75','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','13','7','76','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','13','7','77','06/10/2017');
+4-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','03','7','79','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','03','7','80','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','03','7','81','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','03','7','82','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','03','7','83','06/10/2017');
+3-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','44','7','85','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','44','7','86','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','44','7','87','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','44','7','88','06/10/2017');
+0-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','38','7','90','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','38','7','10','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','38','7','11','09/01/2017');
+4-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','42','7','13','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','42','7','14','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','42','7','15','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','42','7','16','09/01/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','03','7','18','09/01/2017');
+1-4                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','13','7','20','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','13','7','21','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','13','7','22','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','13','7','23','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','13','7','24','09/04/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','44','7','26','09/04/2017');
+3-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','29','7','28','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','29','7','29','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','29','7','30','09/04/2017');
+1-6                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','42','7','32','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','42','7','33','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','42','7','34','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','42','7','35','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','42','7','36','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','42','7','37','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('03','','42','7','38','10/05/2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('38','','13','7','40','10/05/2017');
+3-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','29','7','42','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','29','7','43','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','29','7','44','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('44','','29','7','45','10/05/2017');
+4-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','38','7','47','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','38','7','48','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','38','7','49','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','38','7','50','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','38','7','51','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('42','','38','7','52','10/08/2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','44','7','54','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('13','','44','7','55','10/08/2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','03','7','57','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('29','','03','7','58','10/08/2017');
+                                                                                                                                              
+-- grupo F                                                                                                                                    
+                                                                                                                                              
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','14','7','63','09/04/2016');
+2-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','50','7','65','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','50','7','66','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','50','7','67','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','50','7','68','09/04/2016');
+1-5                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','45','7','70','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','45','7','71','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','45','7','72','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','45','7','73','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','45','7','74','09/04/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','45','7','75','09/04/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','37','7','77','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','37','7','78','10/08/2016');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('45','','32','7','80','10/08/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('45','','32','7','81','10/08/2016');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','49','7','83','10/08/2016');
+0-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','14','7','85','10/11/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','37','7','87','10/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','37','7','88','10/11/2016');
+3-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','45','7','90','10/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','45','7','10','10/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','45','7','11','10/11/2016');
+4-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','32','7','13','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','32','7','14','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','32','7','15','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','32','7','16','11/11/2016');
+3-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','45','7','18','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','45','7','19','11/11/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','45','7','20','11/11/2016');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','50','7','22','11/11/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','32','7','24','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','32','7','25','03/26/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('45','','50','7','27','03/26/2017');
+1-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','49','7','29','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','49','7','30','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','49','7','31','03/26/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','49','7','32','03/26/2017');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','37','7','34','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','37','7','35','06/10/2017');
+2-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('45','','14','7','37','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('45','','14','7','38','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('45','','14','7','39','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('45','','14','7','40','06/10/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','49','7','42','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','49','7','43','06/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','49','7','44','06/10/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','50','7','46','09/01/2017');
+0-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','45','7','48','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','45','7','49','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','45','7','50','09/01/2017');
+0-4                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','14','7','52','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','14','7','53','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','14','7','54','09/01/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','14','7','55','09/01/2017');
+2-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','49','7','57','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','49','7','58','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','49','7','59','09/04/2017');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('45','','37','7','61','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('45','','37','7','62','09/04/2017');
+4-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','32','7','64','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','32','7','65','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','32','7','66','09/04/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','32','7','67','09/04/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('45','','49','7','69','10/05/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('14','','50','7','71','10/05/2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','32','7','73','10/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('37','','32','7','74','10/05/2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('32','','14','7','76','10/08/2017');
+3-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','37','7','78','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','37','7','79','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('49','','37','7','80','10/08/2017');
+2-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','45','7','82','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','45','7','83','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','45','7','84','10/08/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('50','','45','7','85','10/08/2017');
+                                                                                                                                              
+-- grupo g                                                                                                                                                                                                                                     '',     '7','',            );
+8-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','31','7','89','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','31','7','90','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','31','7','10','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','31','7','11','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','31','7','12','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','31','7','13','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','31','7','14','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','31','7','15','09/05/2016');
+1-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','','28','7','17','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','','28','7','18','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','','28','7','19','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','','28','7','20','09/05/2016');
+2-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','10015','36','7','22','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','10016','36','7','23','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','','36','7','24','09/06/2016');
+0-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','10015','01','7','26','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','10016','01','7','27','10/06/2016');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','27','7','29','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','27','7','30','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','27','7','31','10/06/2016');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','15','7','33','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','15','7','34','10/06/2016');
+2-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','','31','7','36','10/09/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','','31','7','37','10/09/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','','31','7','38','10/09/2016');
+2-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','28','7','40','10/09/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','28','7','41','10/09/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','28','7','42','10/09/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','28','7','43','10/09/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','28','7','44','10/09/2016');
+0-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','','15','7','46','10/09/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','','15','7','47','10/09/2016');
+4-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','36','7','49','11/12/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','36','7','50','11/12/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','36','7','51','11/12/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','36','7','52','11/12/2016');
+0-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','','27','7','54','11/12/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','','27','7','55','11/12/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','','27','7','56','11/12/2016');
+0-4                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','28','7','58','11/12/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','28','7','59','11/12/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','28','7','60','11/12/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','28','7','61','11/12/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','01','7','63','03/24/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','01','7','64','03/24/2017');
+0-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','36','7','66','03/24/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','36','7','67','03/24/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','36','7','68','03/24/2017');
+4-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','27','7','70','03/24/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','27','7','71','03/24/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','27','7','72','03/24/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','27','7','73','03/24/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','27','7','74','03/24/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','15','7','76','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','15','7','77','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','15','7','78','06/11/2017');
+0-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','10013','01','7','80','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','10014','01','7','81','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','10015','01','7','82','06/11/2017');
+5-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','31','7','84','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','31','7','85','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','31','7','86','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','31','7','87','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','31','7','88','06/11/2017');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','10013','31','7','90','09/02/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','10014','31','7','10','09/02/2017');
+3-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','28','7','12','09/02/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','28','7','13','09/02/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','28','7','14','09/02/2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','','36','7','16','09/02/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','27','7','18','09/05/2017');
+0-8                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','15','7','20','09/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','15','7','21','09/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','15','7','22','09/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','15','7','23','09/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','15','7','24','09/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','15','7','25','09/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','15','7','26','09/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','15','7','27','09/05/2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','01','7','29','09/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','10015','01','7','30','09/05/2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','36','7','32','10/06/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('28','','36','7','33','10/06/2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('31','','27','7','35','10/06/2017');
+3-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','01','7','37','10/06/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','01','7','38','10/06/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('15','','01','7','39','10/06/2017');
+4-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','31','7','41','10/09/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','31','7','42','10/09/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','31','7','43','10/09/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('36','','31','7','44','10/09/2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('27','','15','7','46','10/09/2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('01','','28','7','48','10/09/2017');
+                                                                                                                                              
+-- grupo H                                                                                                                                    
+1-4                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','23','7','52','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','23','7','53','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','23','7','54','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','23','7','55','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','23','7','56','09/06/2016');
+5-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','16','7','58','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','16','7','59','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','16','7','60','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','16','7','61','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','16','7','62','09/06/2016');
+0-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','06','7','64','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','06','7','65','09/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','06','7','66','09/06/2016');
+4-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','22','7','68','10/07/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','22','7','69','10/07/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','22','7','70','10/07/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','22','7','71','10/07/2016');
+4-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','07','7','73','10/07/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','07','7','74','10/07/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','07','7','75','10/07/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','07','7','76','10/07/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','11','7','78','10/07/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','11','7','79','10/07/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','11','7','81','10/10/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','11','7','82','10/10/2016');
+0-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','23','7','84','10/10/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','23','7','85','10/10/2016');
+0-6                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','06','7','87','10/10/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','06','7','88','10/10/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','06','7','89','10/10/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','06','7','90','10/10/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','06','7','10','10/10/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','06','7','11','10/10/2016');
+3-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','22','7','13','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','22','7','14','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','22','7','15','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','22','7','16','11/13/2016');
+8-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','16','7','18','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','16','7','19','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','16','7','20','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','16','7','21','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','16','7','22','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','16','7','23','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','16','7','24','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','16','7','25','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','16','7','26','11/13/2016');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','07','7','28','11/13/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','07','7','29','11/13/2016');
+0-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','16','7','31','03/25/2017');
+5-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','22','7','33','03/25/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','22','7','34','03/25/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','22','7','35','03/25/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','22','7','36','03/25/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','22','7','37','03/25/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','22','7','38','03/25/2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','23','7','40','03/25/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','23','7','41','03/25/2017');
+0-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','06','7','43','06/09/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','06','7','44','06/09/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','11','7','46','06/09/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','11','7','47','06/09/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','11','7','48','06/09/2017');
+0-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','23','7','50','06/09/2017');
+9-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','22','7','52','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','22','7','53','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','22','7','54','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','22','7','55','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','22','7','56','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','22','7','57','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','22','7','58','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','22','7','59','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','22','7','60','08/31/2017');
+3-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','07','7','62','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','07','7','63','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','07','7','64','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','07','7','65','08/31/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','07','7','66','08/31/2017');
+0-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','16','7','68','08/31/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','11','7','70','09/03/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','06','7','72','09/03/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','06','7','73','09/03/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','06','7','74','09/03/2017');
+0-4                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','07','7','76','09/03/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','07','7','77','09/03/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','07','7','78','09/03/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','07','7','79','09/03/2017');
+0-6                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','16','7','81','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','16','7','82','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','16','7','83','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','16','7','84','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','16','7','85','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('22','','16','7','86','10/07/2017');
+3-4                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','06','7','88','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','06','7','89','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','06','7','90','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','06','7','10','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','06','7','11','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','06','7','12','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('07','','06','7','13','10/07/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','23','7','15','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','23','7','16','10/07/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('11','','23','7','17','10/07/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','07','7','19','10/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','07','7','20','10/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('16','','07','7','21','10/10/2017');
+4-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','22','7','23','10/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','22','7','24','10/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','22','7','25','10/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('23','','22','7','26','10/10/2017');
+4-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','11','7','28','10/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','11','7','29','10/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','11','7','30','10/10/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('06','','11','7','31','10/10/2017');
+                                                                                                                                              
+--grupo I                                                                                                                                     
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('17','','30','7','35','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('17','','30','7','36','09/05/2016');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('10','','52','7','38','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('10','','52','7','39','09/05/2016');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('53','','26','7','41','09/05/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('53','','26','7','42','09/05/2016');
+3-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','17','7','44','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','17','7','45','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','17','7','46','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','17','7','47','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','17','7','48','10/06/2016');
+2-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','53','7','50','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','53','7','51','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','53','7','52','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','53','7','53','10/06/2016');
+0-6                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','10','7','55','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','10','7','56','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','10','7','57','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','10','7','58','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','10','7','59','10/06/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','10','7','60','10/06/2016');
+3-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('53','','30','7','62','10/09/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('53','','30','7','63','10/09/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('53','','30','7','64','10/09/2016');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('17','','10','7','66','10/09/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','52','7','68','10/09/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','52','7','69','10/09/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('10','','26','7','71','11/12/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('10','','26','7','72','11/12/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','30','7','74','11/12/2016');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','30','7','75','11/12/2016');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('53','','17','7','77','11/12/2016');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','17','7','79','03/24/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','17','7','80','03/24/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('10','','53','7','82','03/24/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','26','7','84','03/24/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','26','7','85','03/24/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','26','7','86','03/24/2017');
+1-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('17','','53','7','88','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('17','','53','7','89','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('17','','53','7','90','06/11/2017');
+1-4                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','52','7','11','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','52','7','12','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','52','7','13','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','52','7','14','06/11/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','52','7','15','06/11/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','10','7','17','06/11/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('17','','26','7','19','09/02/2017');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('53','','52','7','21','09/02/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('53','','52','7','22','09/02/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('10','','30','7','24','09/03/2017');
+1-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','10','7','26','09/05/2017');
+0-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','17','7','28','09/05/2017');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','53','7','30','09/05/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','53','7','31','09/05/2017');
+1-1                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('10','','17','7','33','10/06/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('10','','17','7','34','10/06/2017');
+0-3                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','26','7','36','10/06/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','26','7','37','10/06/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('52','','26','7','38','10/06/2017');
+0-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','53','7','40','10/06/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('30','','53','7','41','10/06/2017');
+2-0                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','30','7','43','10/09/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('26','','30','7','44','10/09/2017');
+2-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('17','','52','7','46','10/09/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('17','','52','7','47','10/09/2017');
+0-2                                                                                                                                           
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('53','','10','7','49','10/09/2017');
+INSERT INTO Incidencias (cod_equipo_local, cod_jugador, cod_equipo_visita, tipo_incidencia, minuto, fecha_enfrenta) VALUES ('53','','10','7','50','10/09/2017');
+                                                                                                                                              
